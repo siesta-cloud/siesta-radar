@@ -1,2 +1,19 @@
-# siesta-radar
-Siesta Radar
+# Siesta Radar
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-01.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-02.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-03.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-04.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-05.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-06.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-07.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-08.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-09.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-10.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-11.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-12.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-13.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-14.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-15.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-16.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-17.png)
+![Slide](https://dumysiesta.blob.core.windows.net/copernicus/SiestaRadar-18.png)
