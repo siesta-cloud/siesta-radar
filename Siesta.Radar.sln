@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siesta.Radar", "Siesta.Radar\Siesta.Radar.csproj", "{63466793-F6A5-40B7-8E36-937F2E828908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siesta.SentinelHub", "Siesta.SentinelHub\Siesta.SentinelHub.csproj", "{BEB21CCF-B662-4430-AB6D-9DB1B15BE193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siesta.Kiwi", "Siesta.Kiwi\Siesta.Kiwi.csproj", "{C8AC86EC-1C61-4555-8391-ECF0E17389AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siesta.Kiwi.Terminal", "Siesta.Kiwi.Terminal\Siesta.Kiwi.Terminal.csproj", "{C0423526-C6D3-4522-A2CB-D537967BE201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siesta.SentinelHub.Terminal", "Siesta.SentinelHub.Terminal\Siesta.SentinelHub.Terminal.csproj", "{5AF96D98-D439-4705-B6CD-E8853E1D1655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63466793-F6A5-40B7-8E36-937F2E828908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63466793-F6A5-40B7-8E36-937F2E828908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63466793-F6A5-40B7-8E36-937F2E828908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63466793-F6A5-40B7-8E36-937F2E828908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB21CCF-B662-4430-AB6D-9DB1B15BE193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB21CCF-B662-4430-AB6D-9DB1B15BE193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB21CCF-B662-4430-AB6D-9DB1B15BE193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB21CCF-B662-4430-AB6D-9DB1B15BE193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AC86EC-1C61-4555-8391-ECF0E17389AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AC86EC-1C61-4555-8391-ECF0E17389AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AC86EC-1C61-4555-8391-ECF0E17389AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AC86EC-1C61-4555-8391-ECF0E17389AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0423526-C6D3-4522-A2CB-D537967BE201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0423526-C6D3-4522-A2CB-D537967BE201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0423526-C6D3-4522-A2CB-D537967BE201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0423526-C6D3-4522-A2CB-D537967BE201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF96D98-D439-4705-B6CD-E8853E1D1655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF96D98-D439-4705-B6CD-E8853E1D1655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF96D98-D439-4705-B6CD-E8853E1D1655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF96D98-D439-4705-B6CD-E8853E1D1655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2774A6-DF8A-45AC-B21A-B7AE251170D5}
+	EndGlobalSection
+EndGlobal

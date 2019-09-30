@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+                      {
+                  "type": "Feature",
+                  "geometry": {"type":"MultiPolygon","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::32644"}},"coordinates":[[[[454363.322224781,3200038.9999530115],[429543.77431948704,3090240.9999512],[509758.99999999936,3090240.9999512085],[509759.0,3200038.9999530152],[454363.322224781,3200038.9999530115]]]]},
+                  "properties": {
+                      "id": "S2B_OPER_MSI_L1C_TL_MTI__20190926T085744_A013344_T44RMS_N02.08",
+                      "date": "2019-09-26",
+                      "time": "05:21:01",
+                      "path": "s3://sentinel-s2-l1c/tiles/44/R/MS/2019/9/26/0",
+                      "crs": "EPSG:32644",
+                      "mbr": "399960,3090240 509760,3200040",
+                      "cloudCoverPercentage": 17.32,
+                      "out1": "0.08625",
+                      "out2": "0.15105",
+                      "out3": "0.15315"
+                  }
+              }
+  ]
+}

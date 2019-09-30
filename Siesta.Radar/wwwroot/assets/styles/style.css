@@ -1,0 +1,140 @@
+﻿/* Always set the map height explicitly to define the size of the div
+        * element that contains the map. */
+#map {
+    height: 100%;
+    width: calc(100% - 350px);
+    display: inline-block;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#topbar {
+    height: 80px;
+}
+
+#main {
+    height: calc(100% - 80px);
+}
+
+#footer {
+}
+
+#logo {
+    height: 80px;
+    display: inline-block;
+}
+
+#logo-image {
+    height: 80px;
+}
+
+#search {
+    height: 80px;
+    display: inline-block;
+}
+
+#date-from-picker {
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+}
+
+#date-to-picker {
+    display: inline-block;
+    width: 100px;
+    margin: 10px;
+}
+
+#search-submit {
+    display: inline-block;
+    margin: 10px;
+}
+
+.loader {
+    /*border: 16px solid #ff006e; 
+    border-top: 16px solid #3498db; 
+    border-radius: 50%;*/
+    background: url("/assets/img/loader.gif");
+    width: 120px;
+    height: 120px;
+    /*animation: spin 2s linear infinite;*/
+    position: absolute;
+    z-index: 10;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+
+#search-result {
+    display: inline-block;
+    width: 345px;
+    height: 100%;
+    background: #c9c9c9;
+    overflow: scroll;
+}
+
+#search-result-items {
+}
+
+.search-result-item {
+    cursor: pointer;
+    background: #fff;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.75);
+    width: 305px;
+    margin: 11px;
+}
+
+
+    .search-result-item div {
+        margin: 3px;
+    }
+
+#logo-image-kiwi {
+    float: right;
+    display: inline-block;
+}
+
+.interest-icon {
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid black;
+    vertical-align: middle;
+    width: 60px;
+    height: 40px;
+}
+
+#interest-snow {
+    background: url("/assets/img/icons/snow.png");
+}
+
+#interest-air-quality {
+    background: url("/assets/img/icons/air.png");
+}
+
+#interest-water-quality {
+    background: url("/assets/img/icons/water.png");
+}
+
+#selected-interest-type {
+    width: 50px;
+    height: 30px;
+    display: inline-block;
+}
+
+#from-location {
+    width: 180px;
+    height: 35px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
